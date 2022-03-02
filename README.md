@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nick!
+- 👀 I’m interested in the cloud and web app development
+- 🌱 I’m currently studying at ETH Zurich in Switzerland
+- 💞️ I’m looking to collaborate on Software as a Service startups
+- 📫 Shoot me a message nick@nickbray.io
